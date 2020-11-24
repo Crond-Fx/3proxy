@@ -19,7 +19,7 @@ Sample .proxyauth
 
     johndoe:CL:johndoepassword123
 
-Change HTTP/SOCKS port, default is 9999 (HTTP) and 8088 (SOCKS)
+Change HTTP port, default is 3128 (HTTP)
 
     vim /etc/3proxy/3proxy.cfg
     
